@@ -13,7 +13,7 @@
 - :school: I have Completed Master of Computer Application from WBUT
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I always learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: a new `job opportunity`, this is [MY RESUME]([https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing](https://drive.google.com/file/d/17BjCbCGYkgxxb4E1wm350F-5LTNeI98j/view?usp=sharing)).
+- :thinking: I’m currently open for: a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/17BjCbCGYkgxxb4E1wm350F-5LTNeI98j/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
 <br>
